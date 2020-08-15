@@ -7,6 +7,11 @@
 - [DOCKER的HADOOP一鍵啟動之旅](http://paulfun.net/wordpress/?p=307)
 - [如何使用Docker搭建大數據Hadoop環境？學會這9步，快速上手](https://kknews.cc/zh-tw/code/6o2qne3.html)
 
+# Build Spark on K8s
+- [运行支持kubernetes原生调度的Spark程序](https://jimmysong.io/kubernetes-handbook/usecases/running-spark-with-kubernetes-native-scheduler.html)
+- [Running Spark on Kubernetes](https://apache-spark-on-k8s.github.io/userdocs/running-on-kubernetes.html)
+[Apache Spark on Kubernetes](https://github.com/apache-spark-on-k8s)
+
 # Pyspark API
 
 
