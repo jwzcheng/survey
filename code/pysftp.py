@@ -1,9 +1,9 @@
 import pysftp
 import pathlib
 
-sHostName = 'localhost'
-sUserName = 'jaycheng'
-sPassWord = '0000'
+sHostName = ''
+sUserName = ''
+sPassWord = ''
 
 cnopts = pysftp.CnOpts(knownhosts='my_macbook')
 cnopts.hostkeys = None
